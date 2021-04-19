@@ -1,0 +1,4 @@
+1. Verify that added story is present on the wishlist page
+2. Verify that removed story is dispear on the wishlist page
+3. Check that update of the wishlist is working correctly
+4. Check that the story is not a wishlist story when be clicked trouble

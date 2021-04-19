@@ -1,0 +1,12 @@
+Reference link: https://www.careercup.com/question?id=14422697
+1. Test support for various audio and video formats.
+2. Test Volume.
+3. For Video test brightness,contrast,subtitles track.
+4. For Audio test mixer,creation of playlist.
+5. Test play,pause,stop,next,previous,close.
+6. Test what happens when user gets a call or message while listening to a song on the media player.
+7. Test what happens when user starts a gaming application or any other application which plays a sound in the background while listening to a song on the media player.
+8. Check if automatic updates are on, whether all updates happen smoothly.
+9. Check if user is able to save a playlist.
+10. Check battery consumption.
+11. For videos, it should play well in landscape or portrait mode of mobile device. Also should play well in full screen or normal mode.

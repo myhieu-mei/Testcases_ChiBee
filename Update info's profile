@@ -1,0 +1,8 @@
+Reference link: http://cs.uky.edu/~ansm226/testing.pdf
+User tool:
+1. Check that user can navigate to pages correct redirection to each of the listed pages
+Edit profile:
+1. Verify that all fields only accept the correct input values=> display error message
+2. Verify that user can not access any other profile
+3. verify that user cannot see the director note fiels
+4. Check that the message display when user updates profile succesfully

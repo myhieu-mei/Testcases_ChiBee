@@ -1,0 +1,22 @@
+Verify that video page can be opened by direct link to a video.
+Verify that on cliking the video play icon over the video, the video should play.
+Verify all the video player controls- play, pause, volume, mute etc.
+Verify that user can select the allowed video quality for playing the video.
+Verify that once the video is complete, user can replay the video using ‘replay’ icon.
+Verify that video should be searchable by name, displaying the most relevant video on the top in search results.
+Verify that other attributes of video like artist name, description should also be searchable.
+Verify that user should get auto suggestions while searching for videos in the youtube search bar.
+Verify that search results should display information like video name, thumbnail, video length, view counts etc.
+Verify that clicking the video thumbnails in the search results should lead to video page.
+Verify that video filtering and sorting option while searching for video like – sort be view count, like, upload date etc.
+Verify that user can view ‘view count’, ‘comments’, ‘like’ and ‘dislikes’ for a video.
+Verify that with each view the ‘view count’ increases by one.
+Verify that user can like or dislike a video and the corresponding count should increase by one.
+Verify that user can comment in the comments section.
+Verify that user should be presented with related videos in the sidebar section.
+Verify that the related videos are related to the current video or is based on the past viewing history of user.
+Verify that clicking rleated video thumbnail should open the video.
+Verify that for age restricted video, user is asked to login to youtube account.
+Verify that logged-in user should see there history as well as recommended videos in the home page.
+Verify that every video viewed goes to history for logged in user..
+Verify that user can view or delete history items.

@@ -1,0 +1,20 @@
+Search results displayed should be relevant to search keyword
+% sign in search keyword should not redirect to 404 ERROR
+Application should not crash if user inserted % in search field
+When user start typing word in text box it should suggest words that matches typed keyword
+There should be pre-defined search criteria for auto complete e.g. after typing first 3 letter it should suggest matching keyword
+When user clicks on any link from result and navigates back, then result should be maintained
+After clicking Search field - search history should be displayed (latest search keyword)
+All search keyword/filters should get cleared on clicking Reset button
+Search results should be cleared on clicking clear search button
+History displayed in search field should be relevant to logged in user only
+Pagination should be tested for searches returning high number of records
+Total number of search records/results should be displayed on page
+Search keyword should get highlighted with color in the search results
+For ecommerce sites - search keyword should suggest similar kind of product/items
+For Advanced Search - limited search filters should be provided
+Water text should be provided for user to understand what to search
+Validate search rules defined for “Exact Match” with the search key word
+Validate search rules defined for “Similar Match” with the search key word
+Validate search rules defined to search with a set of keywords
+User should be able to search when he enters the keyword and hits ‘Enter’ button on keyboard

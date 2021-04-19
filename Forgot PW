@@ -1,0 +1,7 @@
+1. Check that directing to the forgot password page when click into forgot password link
+2. Check that in that page it must ask for alternative email id to send the code.
+3. Check that the code has sent to the email to which the user has provided
+4. Check that the code can be used once once
+5. Check that when user using the code for more than one time it should be dissovled
+6. Check that users enters the new password and retype the password both should mtch until new password ahould not be settled
+7. Check that the user now logins with new password it is working

@@ -1,0 +1,67 @@
+Reference link: https://www.slideshare.net/precisetestingsolution/ecommerce-website-testing-checklist
+I. Fuctionality Testing
+1. User Registration anf Profile Management
+2. Add product into basket and wishlist
+3. Checkout functionality
+4. Order management
+5. User base scenario testing for super admin, admin, support staff
+6. Backed to frontend integration testing
+7. Create configurable product and check on frontend
+8. Promo code testing
+
+II. Main Pages test cases 
+1. Test home page
+2. Test Featured products page
+3. Test special offers page
+4. test about us page
+5. test shipping information page
+6. Test returns policy page
+7. Test terms page
+8. test Privacy policy page
+
+III. Product categories test cases
+1. Test any filters such as product filters, colours, sizea, types of product
+2. Test any ability to sort products by name, price, size
+3. Test add to shortlist or wishlist facility
+4. Test add to basket function
+
+IV. Product search test cases
+1. keyword search
+
+V. Shopping basket test cases 
+1. Add products to basket
+2. remove product from basket
+3. Change quantities
+4. Select delivery costs add up correctly
+
+VI. Pay now test cases
+1. Move into checkout process
+
+VII. Checkout process test cases
+1. Test checkout process
+2. Final amount to pay - make sure that this value is correct. after the price of the products, VAt, delivery and any other charges
+3. Test making changes to the products being ordered, changing delivery options and make sure that the final amount updates correctly
+
+VIII. Payment test cases
+1. carry out a test payment usong each payment method that you are offering
+2. Place Paypal payment
+3. Place Visa payment
+4. Place Visa Debit payment. 
+5. Place Visa Electron payment. 
+6. Place Mastercard payment. 
+7. Place Amex payment. 
+8. Place false payment. 
+9. Test cancelling order. 
+10. Check that confirmation emails are sent correctly when a payment is made. 
+11. Make sure that you can refund a payment. 
+12. Any refund confirmation emails are sent to the recipient successfully. 
+IX. Browser Compatibility Tests Test Functionality In Following Browsers 
+1. Internet Explorer 8. 
+2. Internet Explorer 9. 
+3. Internet Explorer 10. 
+4. Chrome (latest version). 
+5. Firefox (latest version). 
+6. Safari (latest version). Testing tools - Browser compatibility tools. Recommended - Multi-Browser Viewer and CrossBrowserTesting.com.
+4. Software Testing Company www.precisetestingsolution.com Mobile Device Compatibility Tests Test Functionality On Following Devices 1. Apple iPhone. 2. Apple iPad. 3. Android Smartphone. 4. Android Tablet. 5. Blackberry. 6. Windows Phone. Testing tools - Mobile compatibility tools Performance Tests Performance Test Cases 1. Performance test of home page. 2. Performance test of product page. Testing tools - Performance testing tools Recommended - Pagetest. Check Your Links Link Checking Test Cases 1. Running an automated link check. Testing tools - Link checking tools Recommended - A1 Website Analyzer.
+5. Software Testing Company www.precisetestingsolution.com Proof Reading Tests Proof Reading Testing 1. Proof read main pages. 2. Proof read product pages. 3. Proof read search results pages. 4. Proof read checkout pages. 5. Proof read site emails. 6. Backed to Frontend integration testing 7. Create configurable and non configurable product and check on frontend 8. Promo code Testing Testing tools - Content testing tools Recommended - Ginger. Product Pricing Tests Product Pricing Test Cases 1. Check product pricing. Web Standards Tests Web Standards Test Cases 1. Run HTML validation check. 2. Run CSS validation check. Testing tools - Validating tools Recommended - Simply Testable. 6. Software Testing Company www.precisetestingsolution.com Accessibility Tests Accessibility Test Cases 1. Test your website against WCAG 2.0 guidelines. 2. Try browsing your website with a screen reader and/or text browser. 3. Try browsing your website without a mouse, I.e with just your keyboard. Testing tools - Accessibility testing tools Recommended - Wave. Cookie Auditing Tests Cookie Auditing Test Cases 1. Carry out cookie audit. Testing tools - Cookie Auditing tools SEO Tests SEO Test Cases 1. Structure of URLs. 2. Unique title tags for each page and product page. 3. Title tags should include product name and category. 4. Meta description tag for each page and product page. 5. Make sure a robots.txt file is in place. 6. Check that alt text has been added to images. 7. Internal linking to aid indexation. 8. Make sure there is an XML sitemap in place. Testing tools - SEO tools
+7. Software Testing Company www.precisetestingsolution.com Recommended - Moz. Social Tests Social Test Cases 1. Social buttons, icons or links are in place and work correctly. 2. Any sharing buttons should also be configured correctly.
